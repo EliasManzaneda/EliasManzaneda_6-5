@@ -1,0 +1,2 @@
+El módulo PSP tiene 3 horas a la semana. Estamos viendo
+cómo programar en Node.js
